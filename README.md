@@ -23,7 +23,7 @@ Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - See hover and active states for all interactive elements on the page
-- Switch between employment tabs
+- Slide between the slides
 
 ### Screenshot
 
