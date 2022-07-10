@@ -1,4 +1,4 @@
-# 6. Slideshow
+# 7. Slideshow
 
 Slideshow with react
 
