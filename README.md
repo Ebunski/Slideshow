@@ -15,6 +15,7 @@ Slideshow with react
 ## Overview
 
 Features:
+Slideshow on click and auto-slide.
 
 ### The challenge
 

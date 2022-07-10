@@ -11,9 +11,9 @@ export default function Slide(props) {
   ////compare with reviews project
 
   const slides = props.data.map((x, index) => {
-    const { id, image, name, title, quote } = x; //note  am not returning.
+    const { id, image, name, title, quote } = x; //note I'm not returning.
 
-    let pos = "nextSlide";
+    let pos = "nextSlide";  
     if (index === props.current) pos = "activeSlide";
     if (
       index === props.current - 1 ||
